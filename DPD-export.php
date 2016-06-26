@@ -1,6 +1,7 @@
 <?php
 /**
- * @package Woocommerce - DPD exportlokpkp
+ * @package Woocommerce - DPD exportlok
+
  * @version 0.1
  */
 /*
